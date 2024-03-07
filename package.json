@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/group-6/",
+    "build": "vite build --base=/html_css_104_iahub4metra/",
     "preview": "vite preview"
   },
   "devDependencies": {
